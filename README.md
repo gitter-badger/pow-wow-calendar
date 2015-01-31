@@ -4,6 +4,7 @@ Pow-Wow Calendar is an application that event organizers can use to plan Pow Wow
 TODO
 -------
 - Build the MEAN Stack
+- Add Angular-UI Calendar module
 
 Authors 
 --------
