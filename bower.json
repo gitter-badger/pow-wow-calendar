@@ -17,6 +17,7 @@
     "angular-ui-calendar": "latest"
   },
   "resolutions": {
-    "jquery": "~2.x"
+    "jquery": "~2.x",
+    "fullcalendar": "~1.x"
   }
 }
