@@ -303,15 +303,49 @@ textarea {
     }
 }
 
-body,
-html  {
+html,
+body {
+  width:100%;
+  height:100%;
+}
+
+.wrapper {
   width:100%;
   height:100%;
   margin: 0;
   padding: 0;
-}
-
-body {
   background: url('../img/canyon.jpg') no-repeat;
   background-size: cover;
+  font-family: Abolition-Lines, 'Open Sans', sans-serif;
+  text-align: center;
+}
+
+.app-title {
+  font-family: Abolition-Lines, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 8rem;
+  color: white;
+  text-align: center;
+  margin: 0;
+  padding: 12rem 0 0 0;
+}
+
+.app-desc {
+  font-family: Open Sans, sans-serif;
+  text-align: center;
+  color: white;
+}
+
+.app-repo {
+  background: transparent;
+  color: white;
+  outline: none;
+  border: 1px solid white;
+  border-radius: 5px;
+  padding: 1rem 2rem;
+}
+
+.button-text {
+  vertical-align: middle;
 }
