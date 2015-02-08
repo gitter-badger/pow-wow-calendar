@@ -361,5 +361,5 @@ footer {
 }
 
 @media screen and (max-width: 568px) {
-  .app-title { padding: 10rem 0 0 0; }
+  .app-title { padding: 16rem 0 0 0; }
 }
