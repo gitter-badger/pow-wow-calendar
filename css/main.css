@@ -328,7 +328,7 @@ body {
   color: white;
   text-align: center;
   margin: 0;
-  padding: 12rem 0 0 0;
+  padding: 18rem 0 0 0;
 }
 
 .app-desc {
@@ -361,5 +361,5 @@ footer {
 }
 
 @media screen and (max-width: 568px) {
-.app-title { padding: 10rem 0 0 0; }
+  .app-title { padding: 10rem 0 0 0; }
 }
